@@ -44,9 +44,11 @@ Those being "#", "const", "sqrt", "pow", and "exit". The details of each can be 
   previously defined variable or constant. Once declared, the output will clarify it's value.
   
   Examples of input following the "#" keyword:
-  1) # x = 10;
-  2) # y = 20*5;
-  3) # g = y;
+  1) '#' x = 10;
+  2) '#' y = 20*5;
+  3) '#' g = y;
+  
+  (ignore the '' hashtag enlarges text in readme files on github apparently)
   
   Variables also have another function. Their values can be reassigned later in the program.
   To do so you just input its name followed by "=" and the new value. 
