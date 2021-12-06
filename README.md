@@ -37,7 +37,7 @@ all will be computed and output in the order they were entered.
 Other than the basic four functions, there are also five keywords important to the program.
 Those being "#", "const", "sqrt", "pow", and "exit". The details of each can be found below
 
-1) # (and or the declaration keyword)
+1) '#' (and or the declaration keyword)
   by using the keyword "#" you store a specific value into a variable you can name.
   Simply start your line with "#" followed by your desired name "=" and the value you want.
   ("# <name> = <value>;"). For the value section you may also enter an expression or a 
