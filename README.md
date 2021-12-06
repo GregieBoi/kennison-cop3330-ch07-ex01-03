@@ -69,6 +69,11 @@ II) const (the constant declaration keyword)
   2) const y = 20*5;
   3) const g = y;
   
+  There are also 3 predefined constants already supplied in the program that can be used:
+  1) pi = 3.14...
+  2) e = 2.718...
+  3) k = 1000
+  
 III) sqrt (the square root function key word)
   By using the keyword sqrt you can find the square root of a given input. To do so input sqrt 
   followed by "(" your given value and ")". ("sqrt(<value>);")
